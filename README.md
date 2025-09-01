@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ SAINI Txt to HTML Bot 
+  ✨ 𝗬𝗔𝗦𝗛 Txt to HTML Bot 
 </h1>
 
 <p align="center">
